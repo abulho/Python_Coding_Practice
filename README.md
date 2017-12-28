@@ -1,2 +1,2 @@
-# Python_Coding_Practice
+# Python Coding Practice
 Python Coding practice problems 

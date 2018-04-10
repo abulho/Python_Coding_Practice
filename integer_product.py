@@ -23,7 +23,6 @@ def interger_product(int_list):
     [1, 7, 3, 4] should return   [84, 12, 28, 21]
 
     '''
-
     mul_list = []
     for i in enumerate(int_list):
         num_to_exclude = int_list[i[0]]
@@ -37,3 +36,5 @@ def interger_product(int_list):
 if __name__ == '__main__':
     int_list = [1, 7, 3, 4]
     print(interger_product(int_list))
+
+    
